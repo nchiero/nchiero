@@ -1,4 +1,4 @@
-### Helo! Welcome to my Github 
+### Hello! Welcome to my Github 
 
 - 🔭 I’m currently working on building projects for my data science porfolio 
 - 🌱 I’m currently learning how to code with Python 
